@@ -6,7 +6,7 @@ I build GenAI systems and like working close to the metal — understanding what
 
 🌱 **Learning** — production LLM systems, retrieval evaluation, and deployment patterns for AI apps.
 
-💼 **Open to** — GenAI / ML engineering roles, internships, and collaboration on interesting projects.
+💼 **Open to** — GenAI / ML engineering roles, and collaboration on interesting projects.
 
 📫 **Reach me** — [hemanth.bhimavarapu28@gmail.com](mailto:hemanth.bhimavarapu28@gmail.com)
 
